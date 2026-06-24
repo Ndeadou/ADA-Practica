@@ -66,8 +66,8 @@ def alternate(s):
 ```
 
 **Complejidad:**
-- ⏱ Tiempo: `O(k² * n)` donde k = caracteres únicos (k ≤ 26, constante) → efectivamente `O(n)`
-- 💾 Espacio: `O(n)` — se almacena la lista filtrada
+-  Tiempo: `O(k² * n)` donde k = caracteres únicos (k ≤ 26, constante) → efectivamente `O(n)`
+-  Espacio: `O(n)` — se almacena la lista filtrada
 
 ---
 
