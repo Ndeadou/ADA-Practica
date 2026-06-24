@@ -32,8 +32,8 @@ def camelcase(s):
 ```
 
 **Complejidad:**
-- ⏱ Tiempo: `O(n)` — se recorre el string una sola vez
-- 💾 Espacio: `O(1)` — solo se usa un contador entero
+- Tiempo: `O(n)` — se recorre el string una sola vez
+- Espacio: `O(1)` — solo se usa un contador entero
 
 ---
 
